@@ -77,6 +77,4 @@ Model Analysis
 
 Know Diabetes, Fight Diabetes-----
 
-<img align="right"alt="coding"width="400"src="![image](https://user-images.githubusercontent.com/98513113/224646907-62224d56-4168-4cb7-84be-327e2432f04e.png)
-")
-">
+<img align="right"alt="coding"width="400"src="![image](https://user-images.githubusercontent.com/98513113/224646907-62224d56-4168-4cb7-84be-327e2432f04e.png)">
