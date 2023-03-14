@@ -74,6 +74,6 @@ Model Analysis
 ![](Aspose.Words.1fd23f18-1eab-436e-8ed7-0b66439486a6.010.png)
 
 
-Know Diabetes, Fight Diabetes-----
+Know Diabetes, Fight Diabetes----
 
 ![](Aspose.Words.1fd23f18-1eab-436e-8ed7-0b66439486a6.011.png)
