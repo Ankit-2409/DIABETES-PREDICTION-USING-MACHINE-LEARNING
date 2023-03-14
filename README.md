@@ -1,19 +1,18 @@
-# DIABETES-PREDICTION-USING-MACHINE-LEARNING
 Diabetes\_Prediction
 
 -----
-The aim of this project is to predict whether a person is diabetic or not using a dataset from kaggle using machine learning.
+The aim of this project is to predict whether a person is Diabetic or not using a dataset from Kaggle using Machine Learning.
 
 Libraries used:-
 
 -----
 - **Numpy**
 
-![](Aspose.Words.edf1bc73-73b6-42dd-945e-6a6bf02a7c4d.001.png)
+![](Aspose.Words.1fd23f18-1eab-436e-8ed7-0b66439486a6.001.png)
 
 **Importing Numpy Library**
 
-![](Aspose.Words.edf1bc73-73b6-42dd-945e-6a6bf02a7c4d.002.png)
+![](Aspose.Words.1fd23f18-1eab-436e-8ed7-0b66439486a6.002.png)
 
 **About Numpy**
 
@@ -21,11 +20,11 @@ Numpy is a library for the Python programming language, adding support for large
 
 - **Pandas**
 
-![](Aspose.Words.edf1bc73-73b6-42dd-945e-6a6bf02a7c4d.003.png)
+![](Aspose.Words.1fd23f18-1eab-436e-8ed7-0b66439486a6.003.png)
 
 **Importing Pandas Library**
 
-![](Aspose.Words.edf1bc73-73b6-42dd-945e-6a6bf02a7c4d.004.png)
+![](Aspose.Words.1fd23f18-1eab-436e-8ed7-0b66439486a6.004.png)
 
 **About Pandas**
 
@@ -33,11 +32,11 @@ Pandas is a Python package providing fast, flexible, and expressive data structu
 
 - **Sklearn**
 
-![](Aspose.Words.edf1bc73-73b6-42dd-945e-6a6bf02a7c4d.005.png)
+![](Aspose.Words.1fd23f18-1eab-436e-8ed7-0b66439486a6.005.png)
 
 **Importing Sklearn**
 
-![](Aspose.Words.edf1bc73-73b6-42dd-945e-6a6bf02a7c4d.006.png)
+![](Aspose.Words.1fd23f18-1eab-436e-8ed7-0b66439486a6.006.png)
 
 **About Sklearn**
 
@@ -55,7 +54,7 @@ Data Analysis
 -----
 - Based on the number of pregnancies
 
-![](Aspose.Words.edf1bc73-73b6-42dd-945e-6a6bf02a7c4d.007.png)
+![](Aspose.Words.1fd23f18-1eab-436e-8ed7-0b66439486a6.007.png)
 
 
 
@@ -63,18 +62,18 @@ Data Analysis
 
 - Based on various health related factors
 
-![](Aspose.Words.edf1bc73-73b6-42dd-945e-6a6bf02a7c4d.008.png)
+![](Aspose.Words.1fd23f18-1eab-436e-8ed7-0b66439486a6.008.png)
 
 Model Analysis
 
 -----
 - With an accuracy score of 78.66% on training data and an accuracy of 77.27% on test data, our model will predict whether you are diabetic or not.
 
-![](Aspose.Words.edf1bc73-73b6-42dd-945e-6a6bf02a7c4d.009.png)
+![](Aspose.Words.1fd23f18-1eab-436e-8ed7-0b66439486a6.009.png)
 
-![](Aspose.Words.edf1bc73-73b6-42dd-945e-6a6bf02a7c4d.010.png)
+![](Aspose.Words.1fd23f18-1eab-436e-8ed7-0b66439486a6.010.png)
 
 
 Know Diabetes, Fight Diabetes-----
 
-<img align="right"alt="coding"width="400"src="![image](https://user-images.githubusercontent.com/98513113/224646907-62224d56-4168-4cb7-84be-327e2432f04e.png)">
+![](Aspose.Words.1fd23f18-1eab-436e-8ed7-0b66439486a6.011.png)
