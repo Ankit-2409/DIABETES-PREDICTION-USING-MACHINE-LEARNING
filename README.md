@@ -52,7 +52,7 @@ Scikit-learn (Sklearn) is the most useful and robust library for machine learnin
 Data Analysis
 
 -----
-- Based on the number of pregnancies
+- Based on the number of Pregnancies
 
 ![](Aspose.Words.1fd23f18-1eab-436e-8ed7-0b66439486a6.007.png)
 
